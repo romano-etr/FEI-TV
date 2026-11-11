@@ -1,0 +1,8 @@
+1;Guerra Mundial Z;Ação;1:55
+2;Mãos Talentosas;Biografia;1:30
+3;A Vida Em Um Ano;Romance;1:47
+4;Bastardos Inglórios;Guerra;2:33
+5;A Lenda Do Cavaleiro Sem Cabeça;Terror;1:45
+6;Piratas Do Caribe;Aventura;2:23
+7;Gente Grande;Comédia;1:42
+8;A Origem;Ficção Científica;2:28
